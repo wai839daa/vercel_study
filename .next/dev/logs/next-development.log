@@ -1,0 +1,8 @@
+[00:00:02.057] Server  LOG     ✓ Ready in 1470ms
+[00:00:23.773] Server  LOG     ○ Compiling / ...
+[00:00:28.079] Server  LOG     fetchImage: 画像情報を取得しました [{...}]
+[00:00:28.080] Server  LOG     Home: 画像情報を取得しました "https://cdn2.thecatapi.com/images/bel.jpg"
+[00:00:28.566] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:33.454] Server  LOG     fetchImage: 画像情報を取得しました [{...}]
+[00:00:33.454] Server  LOG     Home: 画像情報を取得しました "https://cdn2.thecatapi.com/images/tmH3RG7rD.jpg"
+[00:00:33.747] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
